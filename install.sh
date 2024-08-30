@@ -23,7 +23,7 @@ clear
 	githubyiimptpruvot=https://github.com/cryptopool-builders/yiimp.git
 	githubrepoKudaraidee=https://github.com/cryptopool-builders/yiimp.git
 	githubrepoAfinielTech=https://github.com/cryptopool-builders/yiimp.git
-	githubrepoAfiniel=https://github.com/cryptopool-builders/yiimp.git
+	githubrepoAfiniel=https://github.com/MattF42/yiimp.git
 	githubrepoSabiasQue=https://github.com/cryptopool-builders/yiimp.git
 	
 	githubstratum=https://github.com/vaudois/stratum.git
