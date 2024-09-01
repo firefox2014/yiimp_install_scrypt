@@ -20,11 +20,11 @@ NPROC=$(nproc)
 clear
 
 	### Variable ###
-	githubyiimptpruvot=https://github.com/cryptopool-builders/yiimp.git
-	githubrepoKudaraidee=https://github.com/cryptopool-builders/yiimp.git
-	githubrepoAfinielTech=https://github.com/cryptopool-builders/yiimp.git
-	githubrepoAfiniel=https://github.com/MattF42/yiimp.git
-	githubrepoSabiasQue=https://github.com/cryptopool-builders/yiimp.git
+	githubyiimptpruvot=https://github.com/tpruvot/yiimp.git
+	githubrepoKudaraidee=https://github.com/Kudaraidee/yiimp.git
+	githubrepoAfinielTech=https://github.com/Afiniel-tech/yiimp.gi
+	githubrepoAfiniel=https://github.com/afiniel/yiimp.git
+	githubrepoSabiasQue=https://github.com/SabiasQueSpace/yiimp.git
 	
 	githubstratum=https://github.com/vaudois/stratum.git
 
